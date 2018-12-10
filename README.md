@@ -6,7 +6,7 @@ find-references-in-sceneはコンポーネントを参照しているオブジ�
 
 ## Demo
 
-![実行結果]()
+![実行結果](https://github.com/tomori-hikage/find-references-in-scene/blob/readme_images/Images/gif1.gif)
 
 ## Install
 

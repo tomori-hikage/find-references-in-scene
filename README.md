@@ -1,3 +1,8 @@
+[![license](https://img.shields.io/github/license/tomori-hikage/find-references-in-scene.svg?style=flat-square)](https://github.com/tomori-hikage/find-references-in-scene/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/tomori-hikage/find-references-in-scene.svg?style=flat-square)](https://github.com/tomori-hikage/find-references-in-scene/releases)
+[![GitHub](https://img.shields.io/github/followers/tomori-hikage.svg?label=@tomori-hikage&style=social)](https://github.com/tomori-hikage)
+[![Twitter](https://img.shields.io/twitter/follow/tomori_hikage.svg?label=@tomori_hikage&style=social)](https://twitter.com/tomori_hikage)
+
 # find-references-in-scene
 
 ## Description
@@ -11,13 +16,3 @@ find-references-in-sceneはコンポーネントを参照しているオブジ�
 ## Install
 
 [releases](https://github.com/tomori-hikage/find-references-in-scene/releases)からfind-references-in-scene.unitypackageをダウンロードしてプロジェクトにインポートしてください
-
-## Author
-
-GitHub: [tomori-hikage](https://github.com/tomori-hikage)  
-Qiita: [@tomori_hikage](https://qiita.com/tomori_hikage)  
-Twitter: [@tomori_hikage](https://twitter.com/tomori_hikage)
-
-## Distribution License
-
-[MIT](https://github.com/tomori-hikage/find-references-in-scene/blob/master/LICENSE)
